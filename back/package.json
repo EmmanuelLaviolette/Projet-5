@@ -20,9 +20,9 @@
     "url": "https://github.com/Elaviolette/Projet-5/issues"
   },
   "homepage": "https://github.com/Elaviolette/Projet-5#readme",
-  "description": "",
   "devDependencies": {
     "webpack": "^5.73.0",
     "webpack-cli": "^4.10.0"
-  }
+  },
+  "description": ""
 }

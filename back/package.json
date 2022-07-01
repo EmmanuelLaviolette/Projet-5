@@ -1,15 +1,28 @@
 {
   "name": "kanap-backend",
   "version": "1.0.0",
-  "description": "",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
   },
-  "author": "",
+  "author": "Emmanuel Laviolette",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.16.4",
+    "express": "^4.18.1",
     "uuid": "^3.3.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Elaviolette/Projet-5.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Elaviolette/Projet-5/issues"
+  },
+  "homepage": "https://github.com/Elaviolette/Projet-5#readme",
+  "description": "",
+  "devDependencies": {
+    "webpack": "^5.73.0",
+    "webpack-cli": "^4.10.0"
   }
 }
